@@ -1,5 +1,4 @@
 ### Olá! Eu sou o Lucas Silva 🖐️
-<div style="display:inline_block"><br/>
 
 ![Lucas Github Status](https://github-readme-stats.vercel.app/api?username=RebornRS&show_icons=true&theme=radical)
 
@@ -13,3 +12,4 @@
 ## Trabalhos:
 <li><a href="https://discord.gg/2akbRkJtCt" rel="nofollow">Reborn Resources - FiveM</a><br></li>
 <li><a href="https://discord.gg/sapphirecity" rel="nofollow">Sapphire City - Fivem</a><br></li>
+<li><a href="https://github.com/RebornRS/RebornRS/issues" rel="nofollow">Fale comigo aqui!</a><br></li>
