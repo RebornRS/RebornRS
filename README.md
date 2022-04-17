@@ -10,6 +10,7 @@
 
 
 ## Trabalhos:
-<li><a href="https://discord.gg/2akbRkJtCt" rel="nofollow">Reborn Resources - FiveM</a><br></li>
-<li><a href="https://discord.gg/sapphirecity" rel="nofollow">Sapphire City - Fivem</a><br></li>
+<li><a href="https://discord.gg/nfNE8ZNBZA" rel="nofollow">Reborn Resources - FiveM</a><br></li>
+<li><a href="https://discord.gg/" rel="nofollow">Sapphire City - Fivem</a><br></li>
+  <li><a href="https://discord.gg/" rel="nofollow">Cidade Baixa - Fivem</a><br></li>
 <li><a href="https://github.com/RebornRS/RebornRS/issues" rel="nofollow">Fale comigo aqui!</a><br></li>
