@@ -14,9 +14,10 @@
 <li><a href="#" rel="nofollow">Sapphire City - Fivem</a><br></li>
 <li><a href="https://discord.gg/cidadebaixa" rel="nofollow">Cidade Baixa - Fivem</a><br></li>
 <li><a href="https://discord.gg/cidadeeldorado" rel="nofollow">Eldorado - Fivem</a><br></li>
-<li><a href="https://discord.gg/nexusrp" rel="nofollow">NexusGroup - Fivem</a><br></li>
+<li><a href="#" rel="nofollow">GardenCity - Fivem</a><br></li>
 <li><a href="#" rel="nofollow">NewAmsterdam - Fivem </a><br></li>
 <li><a href="#" rel="nofollow">Rocinha - Fivem </a><br></li>
 <li><a href="#" rel="nofollow">AltoLuxo - Fivem </a><br></li>
 <li><a href="#" rel="nofollow">Fantasy Roleplay - Fivem </a><br></li>
+<li><a href="https://discord.gg/nexusrp" rel="nofollow">NexusGroup - Fivem (Atual)</a><br></li>
 <li><a href="https://github.com/RebornRS/RebornRS/issues" rel="nofollow">Fale comigo aqui!</a><br></li>
