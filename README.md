@@ -11,7 +11,7 @@
 
 ## Trabalhos:
 <li><a href="https://discord.gg/nfNE8ZNBZA" rel="nofollow">Reborn Resources - FiveM</a><br></li>
-<li><a href="https:///discord.gg/senserp" rel="nofollow">Sense Roleplay - Fivem (Atual)</a><br></li>
+<li><a href="https:///discord.gg/senserp" rel="nofollow">Sense Roleplay - Fivem</a><br></li>
 <li><a href="https://discord.gg/cidadebaixa" rel="nofollow">Cidade Baixa - Fivem</a><br></li>
 <li><a href="https://discord.gg/cidadeeldorado" rel="nofollow">Eldorado - Fivem</a><br></li>
 <li><a href="https://discord.gg/maui" rel="nofollow">MauiRP - Fivem </a><br></li>
